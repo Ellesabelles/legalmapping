@@ -1,0 +1,35 @@
+a {
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+.mainText {
+  padding: 5%;
+}
+
+.name {
+  background: black;
+  color: white;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+.name a {
+  color: white;
+  text-decoration: none;
+}
+
+.nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding-left: 5%;
+  padding-right: 5%;
+}
